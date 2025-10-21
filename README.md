@@ -1,3 +1,4 @@
+![GitHub all releases](https://img.shields.io/github/downloads/Saltant/PoE-2-Maphack/total)
 # Path of Exile 2: Maphack
 Path of Exile 2 - Maphack
 This program allows you to reveal the map of a location by modifying values in the RAM of the running game client. The program works locally and interacts only with the active Path of Exile 2 game client.
